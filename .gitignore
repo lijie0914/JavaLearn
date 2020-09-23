@@ -1,0 +1,6 @@
+## .idea是IDEA开发环境生成的文件所在的文件夹
+/.idea
+## out是编译后class文件所在的文件夹
+/out
+## iml是 intellij idea的工程配置文件，里面是当前project的一些配置信息。
+*.iml
